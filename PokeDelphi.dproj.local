@@ -161,8 +161,8 @@
     <Transaction>2025/01/30 10:46:14.000.976,=D:\Projetos\Delphi\PokeAPI\Unit1.pas</Transaction>
     <Transaction>2025/01/30 10:48:14.000.966,D:\Projetos\Delphi\PokeAPI\Classes\JSON\Imagens\PokeDelphi.Classes.JSON.Imagens.pas=D:\Projetos\Delphi\PokeAPI\Unit1.pas</Transaction>
     <Transaction>2025/01/30 10:51:43.000.311,D:\Projetos\Delphi\PokeAPI\Classes\JSON\Imagens\PokeDelphi.Classes.JSON.Imagens.Item.pas=D:\Projetos\Delphi\PokeAPI\Classes\JSON\Imagens\PokeDelphi.Classes.JSON.Imagens.pas</Transaction>
-    <Transaction>2025/01/30 14:44:11.449,=D:\Projetos\Delphi\PokeDelphi\Resources\Gear.bmp</Transaction>
-    <Transaction>2025/01/30 14:44:11.478,=D:\Projetos\Delphi\PokeDelphi\Resources\Wiki.bmp</Transaction>
+    <Transaction>2025/01/30 14:44:11.000.449,=D:\Projetos\Delphi\PokeDelphi\Resources\Gear.bmp</Transaction>
+    <Transaction>2025/01/30 14:44:11.000.478,=D:\Projetos\Delphi\PokeDelphi\Resources\Wiki.bmp</Transaction>
   </Transactions>
 	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="Classes"/>

@@ -1,2 +1,4 @@
 PokeAPI RCDATA "Resources\\LogoAPI.png"
 PokeAPI_OFF RCDATA "Resources\\LogoAPI_OFF.png"
+Gear BITMAP "Resources\\Gear.bmp"
+Wiki BITMAP "Resources\\Wiki.bmp"
